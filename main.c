@@ -5,7 +5,10 @@ int main(void)
 {
     int i;
     
-    printf("Hello world");
+    for (i=0; i<5; j++)
+    {
+        printf("Hello world");
+    }
     printf("First version\n");
     
     for (i=0; i<10; i++)
